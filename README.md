@@ -28,3 +28,10 @@ DAX(Basic).
 
 # Dashboard Page 3:
 ![Screenshot_20221025_222132](https://user-images.githubusercontent.com/108228132/197835197-09bb1480-9174-4ea7-a5d2-f3bffa4cf867.png)
+
+# Click to interact with my Dashboard:
+https://www.novypro.com/project/powerbi-5
+
+------------------------------------------------------------Thank You------------------------------------------------------------------------------------------------
+
+
